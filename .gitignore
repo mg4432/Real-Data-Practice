@@ -150,3 +150,35 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+*.csv
+*.xlsx
+*.png
+dataset/chapter04_품질 등급화/Chapter04.ipynb
+dataset/chapter03_기상 데이터 활용 전력 발전량 예측/Chapter03.ipynb
+dataset/chapter06_예금 상품 텔레마케팅 가입 예측/Chapter06.ipynb
+dataset/chapter30_학생 성적 예측/Chapter30.ipynb
+dataset/chapter22_직원 이직 예측/Chapter22.ipynb
+dataset/chapter05_품질 중요인자 분석/Chapter05.ipynb
+dataset/chapter07_신용카드 채무 불이행 고객 예측/Chapter07.ipynb
+dataset/chapter08_신용카드 거래 데이터 분석/Chapter08.ipynb
+dataset/chapter09_신용카드 사기 거래 예측/Chapter09.ipynb
+dataset/chapter10_보험청구 사기 예측/Chapter10.ipynb
+dataset/chapter11_코라콜라 주가 예측/Chapter11.ipynb
+dataset/chapter13_매장 방문 혼잡도 예측/Chapter13.ipynb
+dataset/chapter12_신용점수 예측/Chapter12.ipynb
+dataset/chapter14_상권분석/Chapter14.ipynb
+dataset/chapter28_모바일 게임 A-B teting/Chapter28.ipynb
+dataset/chapter27_가뭄수준 예측/Chapter27.ipynb
+dataset/chapter26_통신사 이탈 고객 예측/Chapter26.ipynb
+dataset/chapter29_영화 흥행 예측/Chapter29.ipynb
+dataset/chapter24_호텔 예약 수요 분석/Chapter24.ipynb
+dataset/chapter21_물류 유통량 예측/Chapter21.ipynb
+dataset/chapter20_차년도 발주를 위한 발주 수량 예측/Chapter20.ipynb
+dataset/chapter18_이커머스 데이터 활용 지표 개발/Chapter18.ipynb
+dataset/chapter15_마케팅 캠페인 반응고객 예측/Chapter15.ipynb
+dataset/chapter16_연관규칙분석을 통한 구매규칙 탐색/Chapter16.ipynb
+dataset/chapter19_고객 구매 여정 분석/Chapter19.ipynb
+dataset/chapter23_소득 예측/Chapter23.ipynb
+dataset/chapter17_마트 오프라인 구매 예측/Chapter17.ipynb
+dataset/chapter25_심장 질병 예측/Chapter25.ipynb
+*.pickle
